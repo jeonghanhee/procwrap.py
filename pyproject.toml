@@ -1,0 +1,10 @@
+[project]
+name = "procwrap"
+version = "0.1.0"
+description = "This is a library that uses subprocess to automatically capture the complete output."
+authors = [{ name = "BONIHANI" }]
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
