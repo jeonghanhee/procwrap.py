@@ -22,7 +22,15 @@ proc.save(path + "/output.txt") # save to a file :)
 Since it's not an official library, it needs to be installed in development mode. XD
 <br />
 Please type the command exactly as shown below!
+
+In project: 
 ```shell
 pip install -e .
 ```
+<br/>
+Download to Github:
+```shell
+pip install git+https://github.com/jeonghanhee/procwrap.py.git
+```
+<br/>
 Then you'll be able to use it!
