@@ -27,10 +27,8 @@ In project:
 ```shell
 pip install -e .
 ```
-<br/>
 Download to Github:
-```shell
+```
 pip install git+https://github.com/jeonghanhee/procwrap.py.git
 ```
-<br/>
-Then you'll be able to use it!
+**Then you'll be able to use it :)**
